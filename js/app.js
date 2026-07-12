@@ -337,10 +337,23 @@
     });
 
     // ==========================================
-    // Init
+    // Init — fetch bots.json, fall back to inline
     // ==========================================
-    updateStats();
-    renderCategories();
-    renderFilters();
-    renderBots();
+    async function init() {
+        try {
+            const res = await fetch('bots.json');
+            if (res.ok) {
+                const data = await res.json();
+                allBots = data.bots;
+                if (data.categories) allCategories = data.categories;
+            }
+        } catch (_) {
+            // local file:// — use inline DATA
+        }
+        updateStats();
+        renderCategories();
+        renderFilters();
+        renderBots();
+    }
+    init();
 })();
