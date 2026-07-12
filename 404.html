@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 — Страница не найдена | TeleBotsHub</title>
+    <meta name="robots" content="noindex">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #0a0a0f;
+            color: #e8e8f0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+            padding: 24px;
+        }
+        .error-code { font-size: 6rem; font-weight: 800; color: #6c5ce7; line-height: 1; }
+        .error-msg { font-size: 1.5rem; margin: 16px 0 8px; }
+        .error-desc { color: #9898a8; margin-bottom: 32px; }
+        .back-link {
+            display: inline-block;
+            padding: 12px 32px;
+            background: #6c5ce7;
+            color: #fff;
+            border-radius: 100px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: 0.2s;
+        }
+        .back-link:hover { background: #a29bfe; }
+    </style>
+</head>
+<body>
+    <div>
+        <div class="error-code">404</div>
+        <h1 class="error-msg">Страница не найдена</h1>
+        <p class="error-desc">Такой страницы не существует. Возможно, она была перемещена.</p>
+        <a href="/" class="back-link">На главную</a>
+    </div>
+</body>
+</html>

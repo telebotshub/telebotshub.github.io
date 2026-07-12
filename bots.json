@@ -1,0 +1,69 @@
+{
+  "bots": [
+    {
+      "id": "probe-sherlock",
+      "name": "Шерлок",
+      "description": "OSINT-бот для поиска информации по человеку. Имя, ник, номер телефона, соцсети — всё в одном месте.",
+      "category": "probe",
+      "url": "https://736865726c6f636b.com/#NPI4eH5Pc_3y1qNRvbt",
+      "image": "https://placehold.co/120x120/1a1a2e/c084fc?text=SH",
+      "rating": 4.8,
+      "users": "95K",
+      "tags": ["OSINT", "пробив", "поиск людей", "соцсети"]
+    },
+    {
+      "id": "probe-enigma",
+      "name": "Энигма",
+      "description": "VPN и анонимность в одном боте. Быстрое подключение, выбор серверов по всему миру, защита трафика.",
+      "category": "probe",
+      "url": "https://t.me/Enivpnbot?start=YX31RMIL",
+      "image": "https://placehold.co/120x120/1a1a2e/6366f1?text=EN",
+      "rating": 4.7,
+      "users": "110K",
+      "tags": ["VPN", "пробив", "анонимность", "безопасность"]
+    },
+    {
+      "id": "probe-void",
+      "name": "Войд",
+      "description": "Альтернатива Шерлока для глубокого OSINT-пробива. Поиск по базам данных, проверка людей, трекинг аккаунтов.",
+      "category": "probe",
+      "url": "https://void.expert/#4xDwfuXgHXCH",
+      "image": "https://placehold.co/120x120/1a1a2e/ef4444?text=VD",
+      "rating": 4.9,
+      "users": "78K",
+      "tags": ["OSINT", "пробив", "альтернатива Шерлока", "поиск людей"]
+    },
+    {
+      "id": "probe-himera",
+      "name": "Химера",
+      "description": "Поиск по базам данных судимостей и криминальных записей. Проверка человека по ФИО, паспорту, номеру телефона.",
+      "category": "probe",
+      "url": "https://himera-search.net/cabinet/signup?ref=1606974",
+      "image": "https://placehold.co/120x120/1a1a2e/f97316?text=HM",
+      "rating": 4.8,
+      "users": "62K",
+      "tags": ["судимости", "криминал", "пробив", "базы данных", "проверка людей"]
+    },
+    {
+      "id": "probe-chatcrawler",
+      "name": "ChatCrawler",
+      "description": "Пробив Telegram-аккаунтов. История постов, медиа, активность, список групп — полный профиль за секунды.",
+      "category": "probe",
+      "url": "https://chatcrawler.link/#coolname",
+      "image": "https://placehold.co/120x120/1a1a2e/14b8a6?text=CC",
+      "rating": 4.6,
+      "users": "43K",
+      "tags": ["Telegram пробив", "пробив", "профиль", "аккаунты", "OSINT"]
+    }
+  ],
+  "categories": [
+    { "id": "trading", "name": "Трейдинг", "icon": "📈", "description": "Боты для торговли криптовалют и акций, сигналы, аналитика" },
+    { "id": "ai", "name": "ИИ и нейросети", "icon": "🤖", "description": "ChatGPT, генерация изображений, транскрибация, ИИ-ассистенты" },
+    { "id": "utility", "name": "Утилиты", "icon": "🛠", "description": "Конвертеры файлов, QR-коды, погода и другие полезные инструменты" },
+    { "id": "finance", "name": "Финансы", "icon": "💰", "description": "Портфели, отслеживание цен, аналитика рынков" },
+    { "id": "fun", "name": "Развлечения", "icon": "🎮", "description": "Мемы, музыка, игры и другие боты для отдыха" },
+    { "id": "dev", "name": "Для разработчиков", "icon": "💻", "description": "GitHub, код, форматирование и инструменты для разработки" },
+    { "id": "productivity", "name": "Продуктивность", "icon": "📋", "description": "Задачи, заметки, напоминания и организация работы" },
+    { "id": "probe", "name": "Пробив", "icon": "🔍", "description": "Поиск информации, проверка людей, OSINT, поиск по базам данных" }
+  ]
+}
