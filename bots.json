@@ -54,6 +54,17 @@
       "rating": 4.6,
       "users": "43K",
       "tags": ["Telegram пробив", "пробив", "профиль", "аккаунты", "OSINT"]
+    },
+    {
+      "id": "probe-bigbase",
+      "name": "Bigbase",
+      "description": "База данных для глубокого OSINT-пробива. Поиск по ФИО, номеру, email, никнейму — тысячи источников в одном боте.",
+      "category": "probe",
+      "url": "https://bg5c.href.bot/",
+      "image": "https://placehold.co/120x120/1a1a2e/f59e0b?text=BB",
+      "rating": 4.7,
+      "users": "38K",
+      "tags": ["пробив", "база данных", "OSINT", "поиск людей", "Bigbase"]
     }
   ],
   "categories": [
