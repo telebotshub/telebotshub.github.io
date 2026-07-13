@@ -65,6 +65,17 @@
       "rating": 4.7,
       "users": "38K",
       "tags": ["пробив", "база данных", "OSINT", "поиск людей", "Bigbase"]
+    },
+    {
+      "id": "probe-duxxles",
+      "name": "Duxxles",
+      "description": "OSINT-инструмент для глубокого пробива. Сбор данных из открытых источников, проверка личности, трекинг цифрового следа.",
+      "category": "probe",
+      "url": "https://dyx.ink?r=A6SQG55PPV",
+      "image": "https://placehold.co/120x120/1a1a2e/8b5cf6?text=DX",
+      "rating": 4.6,
+      "users": "29K",
+      "tags": ["пробив", "OSINT", "проверка личности", "цифровой след", "Duxxles"]
     }
   ],
   "categories": [
