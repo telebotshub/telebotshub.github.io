@@ -131,6 +131,22 @@
         "айпилоггер",
         "боты логгеры"
       ]
+    },
+    {
+      "id": "fun-echotoall",
+      "name": "Echo to all",
+      "description": "Отправь сообщение - бот отправит всем. \nДелимся сообщениями с апреля 2021",
+      "url": "https://t.me/echoall2bot",
+      "image": "https://placehold.co/120x120/1a1a2e/6366f1?text=EA",
+      "users": "19K",
+      "category": "fun",
+      "rating": 5.0,
+      "tags": [
+        "эхобот",
+        "эхо ту алл",
+        "echo to all",
+        "анонимное общение"
+      ]
     }
   ],
   "categories": [
