@@ -147,6 +147,40 @@
         "echo to all",
         "анонимное общение"
       ]
+    },
+    {
+      "id": "probe-vektor",
+      "name": "Вектор",
+      "description": "популярный и лучший бот ищет по любым вводным данным есть приватные базы которых нет в других ботах",
+      "url": "https://vektor.bar?start=r_yCCDNN4Ae0",
+      "image": "https://placehold.co/120x120/1a1a2e/6366f1?text=VR",
+      "users": "172K",
+      "category": "probe",
+      "rating": 4.93,
+      "tags": [
+        "вектор",
+        "пробив",
+        "осинт",
+        "аналог шерлока",
+        "аналог глаза бога"
+      ]
+    },
+    {
+      "id": "probe-funstat",
+      "name": "Fustat (Telelog)",
+      "description": "Поиск по телеграм.",
+      "url": "http://funstat.in/?start=01083FA1414975617466",
+      "image": "https://avatars.githubusercontent.com/u/250740684?s=48&v=4",
+      "users": "210K",
+      "category": "probe",
+      "rating": 4.57,
+      "tags": [
+        "funstat",
+        "telelog",
+        "telegram",
+        "пробив телеграма",
+        "телеграм"
+      ]
     }
   ],
   "categories": [
