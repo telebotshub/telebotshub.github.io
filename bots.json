@@ -230,6 +230,25 @@
         "vds",
         "vps"
       ]
+    },
+    {
+      "id": "dev-expresshost",
+      "name": "expresshost",
+      "description": "дешевый хостинг,есть оплата по крипте",
+      "url": "https://t.me/ExpressHost_Bot?start=ref_ChKONQvk",
+      "image": "https://placehold.co/120x120/1a1a2e/6366f1?text=EH",
+      "users": "21K",
+      "category": "dev",
+      "rating": 4.98,
+      "tags": [
+        "expresshost",
+        "host",
+        "vds",
+        "vps",
+        "хостинг",
+        "вдс",
+        "впс"
+      ]
     }
   ],
   "categories": [
