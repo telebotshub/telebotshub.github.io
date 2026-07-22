@@ -658,11 +658,28 @@ a {
     text-align: center;
     padding-top: 24px;
     border-top: 1px solid var(--border);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
 }
 
 .footer-bottom p {
     font-size: 0.82rem;
     color: var(--text-muted);
+    margin: 0;
+}
+
+.footer-bottom a {
+    font-size: 0.82rem;
+    color: var(--accent);
+    text-decoration: none;
+    transition: opacity 0.2s;
+}
+
+.footer-bottom a:hover {
+    opacity: 0.7;
 }
 
 /* ==========================================
