@@ -212,6 +212,24 @@
         "казик",
         "халява"
       ]
+    },
+    {
+      "id": "dev-nodehost",
+      "name": "NodeHost",
+      "description": "Дешевые и мощные сервера. есть оплата криптой.",
+      "url": "https://nodehost.cc/register?ref=6ab80883e4ce",
+      "image": "https://nodehost.cc/apple-touch-icon.png",
+      "users": "194K",
+      "category": "dev",
+      "rating": 5.0,
+      "tags": [
+        "nodehost",
+        "хостинг",
+        "вдс",
+        "впс",
+        "vds",
+        "vps"
+      ]
     }
   ],
   "categories": [
