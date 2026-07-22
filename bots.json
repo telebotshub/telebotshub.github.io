@@ -181,6 +181,37 @@
         "пробив телеграма",
         "телеграм"
       ]
+    },
+    {
+      "id": "fun-zoryana",
+      "name": "Зоряна",
+      "description": "Echo to All — бот для анонимного общения со всеми участниками.\nДисклеймер: в чате возможно распространение медиа и аудиофайлов, в том числе запрещённых на территории Российской Федерации.",
+      "url": "https://t.me/Zoriana_Kylvstar_Bot",
+      "image": "https://placehold.co/120x120/1a1a2e/6366f1?text=ZR",
+      "users": "31K",
+      "category": "fun",
+      "rating": 4.67,
+      "tags": [
+        "зоряна",
+        "эхобот",
+        "echotoall"
+      ]
+    },
+    {
+      "id": "fin-skinfights",
+      "name": "SKINFIGHTS",
+      "description": "Скины cs2,есть халява без депа.",
+      "url": "https://t.me/skinfights_bot/SkinFights?startapp=eyJpbnZpdGVkX2J5IjoiMzI0YjFiM2MtNjY2NC00M2I1LWFlNTktMDdhYzEzNWRhZjY2IiwicHJvbW9fY29kZV9hbGlhcyI6bnVsbCwiY21wIjpudWxsfQ",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA7wAAAPAAQMAAAAsbefOAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAIdJREFUeNrtwTEBAAAAwqD1T20Hb6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4DfFzwABa9NYigAAAABJRU5ErkJggg==",
+      "users": "48K",
+      "category": "finance",
+      "rating": 4.12,
+      "tags": [
+        "cs2",
+        "skins",
+        "казик",
+        "халява"
+      ]
     }
   ],
   "categories": [
