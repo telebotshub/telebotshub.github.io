@@ -249,6 +249,23 @@
         "вдс",
         "впс"
       ]
+    },
+    {
+      "id": "fin-antarctic",
+      "name": "AntarcticWallet",
+      "description": "Криптовалютный кошелек с возможностью оплаты в магазинах и выпуск карт.",
+      "url": "https://t.me/antarctic_wallet_bot/app?startapp=ref_5dc17acf60",
+      "image": "https://avatars.githubusercontent.com/u/236285888?s=200&v=4",
+      "users": "134K",
+      "category": "finance",
+      "rating": 4.75,
+      "tags": [
+        "крипта",
+        "кошелек",
+        "cryptowallet",
+        "wallet",
+        "crypto"
+      ]
     }
   ],
   "categories": [
