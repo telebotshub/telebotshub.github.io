@@ -266,6 +266,22 @@
         "wallet",
         "crypto"
       ]
+    },
+    {
+      "id": "probe-depsearch",
+      "name": "DepSearch",
+      "description": "DepSearch — быстрый поиск информации через Telegram бота. Базы данных, пробив по РФ/СНГ, актуальные зеркала",
+      "url": "https://t.me/Djdjdj_hhdhdj_bot?start=ref_F0QByS4t",
+      "image": "https://avatar.telemetr.me/ebba6f23292e858802c791139163716d.jpg",
+      "users": "61K",
+      "category": "probe",
+      "rating": 4.66,
+      "tags": [
+        "пробив",
+        "глаз бога",
+        "осинт",
+        "базы"
+      ]
     }
   ],
   "categories": [
