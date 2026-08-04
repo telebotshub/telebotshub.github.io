@@ -282,6 +282,23 @@
         "осинт",
         "базы"
       ]
+    },
+    {
+      "id": "probe-sbyf",
+      "name": "Search by face",
+      "description": "Search by face - поиск по фото",
+      "url": "https://t.me/search_by_face_bot?start=_tgr_FKnD6U1iY2Yy",
+      "image": "https://searchbyface.org/logo.png",
+      "users": "54K",
+      "category": "probe",
+      "rating": 4.95,
+      "tags": [
+        "фото",
+        "поиск по фото",
+        "пробив по фото",
+        "поиск по лицу",
+        "найти по фото"
+      ]
     }
   ],
   "categories": [
