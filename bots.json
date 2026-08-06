@@ -299,6 +299,37 @@
         "поиск по лицу",
         "найти по фото"
       ]
+    },
+    {
+      "id": "util-zerotrace",
+      "name": "ZeroTrace",
+      "description": "Телеграм сносер,сносит аккаунты,боты,каналы.",
+      "url": "https://t.me/ZeroTraceeBbot?start=ref_eus7H-2mqmMartP5euzhpoA",
+      "image": "https://placehold.co/120x120/1a1a2e/c084fc?text=ZT",
+      "users": "7K",
+      "category": "utility",
+      "rating": 4.89,
+      "tags": [
+        "снос",
+        "сносер",
+        "телеграм"
+      ]
+    },
+    {
+      "id": "fun-satan",
+      "name": "SatanaCalling",
+      "description": "Бот для спама звонками на номер телефона",
+      "url": "https://bot.satana.sbs/375NFF",
+      "image": "https://placehold.co/120x120/1a1a2e/c084fc?text=SC",
+      "users": "12K",
+      "category": "fun",
+      "rating": 4.67,
+      "tags": [
+        "бомбер",
+        "звонки",
+        "смс",
+        "наказать обидчика"
+      ]
     }
   ],
   "categories": [
