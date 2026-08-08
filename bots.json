@@ -316,7 +316,7 @@
       ]
     },
     {
-      "id": "fun-satans",
+      "id": "fun-satan",
       "name": "SatanaCalling",
       "description": "Бот для спама звонками на номер телефона",
       "url": "https://bot.satana.sbs/375NFF",
@@ -329,6 +329,22 @@
         "звонки",
         "смс",
         "наказать обидчика"
+      ]
+    },
+    {
+      "id": "fin-prodiebot",
+      "name": "prodiebot",
+      "description": "Магазин токенов телеграм ботов.",
+      "url": "https://t.me/PRODIEBot?start=7469446563",
+      "image": "https://placehold.co/120x120/1a1a2e/c084fc?text=PD",
+      "users": "2K",
+      "category": "finance",
+      "rating": 4.67,
+      "tags": [
+        "токены",
+        "боты",
+        "токены ботов",
+        "телеграм"
       ]
     }
   ],
