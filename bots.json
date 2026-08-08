@@ -346,6 +346,21 @@
         "токены ботов",
         "телеграм"
       ]
+    },
+    {
+      "id": "fin-herosms",
+      "name": "hero-sms",
+      "description": "Позволяет регистрировать аккаунты на разных платформах",
+      "url": "https://hero-sms.com/?ref=1498919",
+      "image": "https://hero-sms.com/img/icons/favicon-32x32.png",
+      "users": "109K",
+      "category": "finance",
+      "rating": 4.87,
+      "tags": [
+        "вирт",
+        "виртуалки",
+        "виртуальные номера"
+      ]
     }
   ],
   "categories": [
