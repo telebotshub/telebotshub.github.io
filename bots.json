@@ -361,6 +361,41 @@
         "виртуалки",
         "виртуальные номера"
       ]
+    },
+    {
+      "id": "ai-syntxai",
+      "name": "syntxai",
+      "description": "Одна подписка.\nЛучшие нейросети для идей без границ.",
+      "url": "https://syntx.ai/welcome/Xzhax5FO",
+      "image": "https://syntx.ai/favicons/favicon-96x96.png",
+      "users": "309K",
+      "category": "ai",
+      "rating": 4.99,
+      "tags": [
+        "ии",
+        "нейросеть",
+        "фри",
+        "пробные токены",
+        "нейронка",
+        "генерация фото",
+        "видео генерация"
+      ]
+    },
+    {
+      "id": "util-antizhalosty",
+      "name": "Антижалости.нет",
+      "description": "🚀Сервис для безопасного соединения и защиты интернет-трафика.",
+      "url": "https://t.me/antizhalostinet_bot?start=3732310671",
+      "image": "https://iimg.su/i/RPn2GY",
+      "users": "30K",
+      "category": "utility",
+      "rating": 4.35,
+      "tags": [
+        "впн",
+        "обход белых списков",
+        "прокси",
+        "vpn"
+      ]
     }
   ],
   "categories": [
