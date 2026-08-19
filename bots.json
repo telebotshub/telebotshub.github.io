@@ -396,6 +396,26 @@
         "прокси",
         "vpn"
       ]
+    },
+    {
+      "id": "fun-animeon",
+      "name": "AnimeON",
+      "description": "Сайт для просмотра аниме,без рекламы,4к качество,за регистрацию +7 дней премиум доступа бесплатно!",
+      "url": "https://animeon.cc/i/XBQA-ASDW",
+      "image": "https://animeon.cc/i/XBQA-ASDW",
+      "users": "490K",
+      "category": "fun",
+      "rating": 5.0,
+      "tags": [
+        "аниме",
+        "anime",
+        "animeon",
+        "без рекламы",
+        "4к качество",
+        "бесплатно",
+        "фри",
+        "free"
+      ]
     }
   ],
   "categories": [
